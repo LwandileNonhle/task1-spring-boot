@@ -34,9 +34,8 @@ http://localhost:8080
 
 **Screenshots – Task 1**
 
-Application started successfully (console output): ![Task 1 Console](screenshots/task1-console.png)
+Application started successfully (console output): ![Task 1 Console](Screenshots_task1/task1-console.png)
 
-GET request result in browser:![Task 1 Browser](screenshots/task1-browser.png)
+GET request result in browser: ![Task 1 Browser](Screenshots_task1/task1-browser.png)
 
-
-HTML / Thymeleaf view rendered: ![Task 1 HTML View](screenshots/task1-html-view.png)
+HTML / Thymeleaf view rendered: ![Task 1 HTML View](Screenshots_task1/task1-html-view.png)
