@@ -1,0 +1,13 @@
+package pl.edu.vistula.First_Java_Project;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FirstJavaProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FirstJavaProjectApplication.class, args);
+	}
+
+}
