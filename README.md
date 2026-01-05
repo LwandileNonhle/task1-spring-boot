@@ -43,3 +43,34 @@ GET request result in browser: ![Task 1 Browser](Screenshots_task1/task1-browser
 
 
 HTML / Thymeleaf view rendered: ![Task 1 HTML View](Screenshots_task1/task1-html-view.png)
+
+
+
+
+**Project Structure**
+
+```text
+First-Java-Project/
+├── .idea/
+├── .mvn/
+├── Screenshots_task1/
+│   ├── task1-browser.png
+│   ├── task1-console.png
+│   └── task1-html-view.png
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── pl.edu.vistula.First_Java_Project/
+│   │   │       ├── Controller/
+│   │   │       │   └── HelloController.java
+│   │   │       └── FirstJavaProjectApplication.java
+│   │   └── resources/
+│   └── test/
+├── target/
+├── .gitattributes
+├── .gitignore
+├── HELP.md
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── README.md
