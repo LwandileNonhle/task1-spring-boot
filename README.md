@@ -36,6 +36,10 @@ http://localhost:8080
 
 Application started successfully (console output): ![Task 1 Console](Screenshots_task1/task1-console.png)
 
+
+
 GET request result in browser: ![Task 1 Browser](Screenshots_task1/task1-browser.png)
+
+
 
 HTML / Thymeleaf view rendered: ![Task 1 HTML View](Screenshots_task1/task1-html-view.png)
